@@ -36,7 +36,7 @@ defmodule MergeAccountingClient.Mixfile do
   defp deps do
     [
       {:tesla, "~> 1.12"},
-      {:poison, "~> 5.0"},
+      {:poison, "~> 4.0"},
       {:ex_doc, ">= 0.0.0", only: :dev, runtime: false}
     ]
   end
