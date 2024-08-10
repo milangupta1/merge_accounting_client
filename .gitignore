@@ -1,0 +1,7 @@
+/.elixir_ls
+/.fetch
+/.hex
+/deps
+/merge_accounting_client.code-workspace
+/mix.lock
+/_build
