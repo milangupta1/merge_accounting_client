@@ -1,6 +1,6 @@
 # MergeAccountingClient
 
-The unified API for building rich integrations with multiple HR Information System platforms.
+The unified API for building rich integrations with multiple Accounting platforms.
 
 ### Building
 
